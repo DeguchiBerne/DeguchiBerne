@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @DeguchiBerne
 - Contact: bgfdeguchi@gmail.com
 
-- ![](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+- ![]([https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white))
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
