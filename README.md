@@ -2,6 +2,9 @@
 
 - 👋 Hi, I’m @DeguchiBerne
 - Contact: bgfdeguchi@gmail.com
+
+- !(https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
